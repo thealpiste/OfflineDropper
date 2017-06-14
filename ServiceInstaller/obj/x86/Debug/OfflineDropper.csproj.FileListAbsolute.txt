@@ -1,0 +1,2 @@
+C:\Users\alpiste\Downloads\OfflineDropper\bin\Debug\OfflineDropper.exe.config
+C:\Users\alpiste\Downloads\OfflineDropper\obj\x86\Debug\OfflineDropper.csprojResolveAssemblyReference.cache
